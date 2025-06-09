@@ -52,7 +52,7 @@ const Projects = () => {
       description: "Custom black-and-white themed portfolio showcasing skills, projects, and publications.",
       techStack: ["React.js", "Tailwind CSS"],
       image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
-      link: "#"
+      link: "https://suriya-ram.netlify.app/"
     }
   ];
 
