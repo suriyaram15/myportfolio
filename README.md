@@ -1,4 +1,3 @@
-Here is the cleaned-up version of your `README.md` file with all **Lovable** references removed and content made relevant to your portfolio project only:
 
 ````markdown
 # 🌟 Welcome to Suriya Ram S Portfolio
