@@ -3,7 +3,7 @@
 
 ## 🔗 Project Info
 
-**URL**: [https://suriyaram.netlify.app](https://suriyaram.netlify.app)  
+**URL**: [https://suriya-ram.netlify.app](https://suriya-ram.netlify.app)  
 **GitHub Repo**: [https://github.com/suriyaram15/myportfolio](https://github.com/suriyaram15/portfolio)
 
 ---
@@ -83,7 +83,7 @@ To connect a custom domain with **Netlify**:
 
 * 📧 Email: [thesuriyaram@gmail.com](mailto:thesuriyaram@gmail.com)
 * 💼 LinkedIn: [linkedin.com/in/suriya-ram-150402-s](https://linkedin.com/in/suriya-ram-150402-s)
-* 🌐 Portfolio: [suriyaram.netlify.app](https://suriyaram.netlify.app)
+* 🌐 Portfolio: [suriya-ram.netlify.app](https://suriya-ram.netlify.app)
 
 ---
 
