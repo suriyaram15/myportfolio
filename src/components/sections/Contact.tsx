@@ -45,7 +45,7 @@ const Contact = () => {
       id: 3,
       icon: Globe,
       title: "Portfolio",
-      link: "#",
+      link: "https://suriya-ram.netlify.app/",
     },
   ];
 
