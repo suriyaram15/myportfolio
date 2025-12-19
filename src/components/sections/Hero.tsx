@@ -150,7 +150,7 @@ const Hero = () => {
             transition={{ duration: 0.6, delay: 0.8 }}
           >
             <motion.a
-              href="https://drive.google.com/file/d/1JP0siAemw7iAcfRlqdZXYuie68re7iHj/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1uTDq0U4SCKwJYwE5t12eMTptw4rwzI8S/view?usp=drive_link"
               target="_blank"
               rel="noopener noreferrer"
               className="group relative px-6 py-3 bg-black text-white font-medium rounded transition-all overflow-hidden"
